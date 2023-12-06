@@ -1,0 +1,3 @@
+C:/Users/Darkinki/CLionProjects/practicalTask9/cmake-build-debug/CMakeFiles/practicalTask9.dir
+C:/Users/Darkinki/CLionProjects/practicalTask9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darkinki/CLionProjects/practicalTask9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
